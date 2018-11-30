@@ -1,2 +1,0 @@
-# someSampleCode
-Created with CodeSandbox
